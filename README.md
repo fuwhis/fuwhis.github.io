@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEyMTZ1eHIyMnFja3NhMnFtaWgwc2N3aHJ2ZGR1dGU0ZmJmcDNyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OOkuWV0M23iS2C8DwZ/giphy.webp" width="250">
 </p>
 
-<h2 align="center">Hi, I'm Fuwhis</h2>
+<h2 align="center">Hi, I'm Quy Nguyen</h2>
 <h3 align="center">Front-end Web Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fuwhis&color=yellow&style=flat">
